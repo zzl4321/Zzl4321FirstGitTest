@@ -307,6 +307,7 @@
 				D336BF141E668CBA0062D365 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
