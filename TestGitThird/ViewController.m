@@ -19,6 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"测试全局设置");
     NSLog(@"继续开始来吗");
+    NSLog(@"创建fenzi1");
 }
 
 
